@@ -4,7 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-anyhow = "1.0.101"
 parsable = { git = "https://github.com/LeonardBengtsson/parsing-library.git", rev = "3a5d1df" }
 serde = "1.0.228"
 thiserror = "2.0.18"
