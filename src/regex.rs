@@ -5,7 +5,6 @@ use crate::utf8::{UnicodeCodepoint, Utf8DecodeError};
 use parsable::Parsable;
 use std::collections::HashMap;
 
-mod compile;
 mod graph;
 mod parse;
 
